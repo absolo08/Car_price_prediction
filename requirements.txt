@@ -1,4 +1,7 @@
-joblib
-flask
-numpy
+Flask>=2.0
+gunicorn
 scikit-learn
+joblib
+pandas
+numpy
+
